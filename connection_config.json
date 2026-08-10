@@ -5,7 +5,7 @@
             "host": "localhost",
             "database": "fleet_db",
             "user": "postgres",
-            "password": "12341234",
+            "password": "enc::gAAAAABqeZA9K0uiQHJwHRbZgSxVw7D4di6SxU6zZarVGuL9yvC81dqDKx-tCkcZuzCW4e3nMppyvVxl39PYy7PcZdRvp6eQ6g==",
             "port": "5432"
         }
     }
