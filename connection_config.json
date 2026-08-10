@@ -1,1 +1,12 @@
-
+{
+    "current_mode": "local",
+    "databases": {
+        "local": {
+            "host": "192.168.1.50",
+            "database": "fleet_db",
+            "user": "postgres",
+            "password": "enc::gAAAAABqeXGxXTGGZFkzfVdhcPL90LZ...",
+            "port": "5432"
+        }
+    }
+}
