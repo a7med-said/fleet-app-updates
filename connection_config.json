@@ -5,7 +5,7 @@
             "host": "192.168.1.50",
             "database": "fleet_db",
             "user": "postgres",
-            "password": "enc::gAAAAABqeXGxXTGGZFkzfVdhcPL90LZ...",
+            "password": "enc::gAAAAABqeX0mkM6h7_BU3aOVxcj0quw6aQ9XfVggdUZZscwhn6coaWcTa3IbvPaE7PHRfHT0QeyD2mKIW4T1pL3JuGjlvbs2aQ==",
             "port": "5432"
         }
     }
