@@ -2,7 +2,7 @@
     "current_mode": "local",
     "databases": {
         "local": {
-            "host": "100.100.10.90",
+            "host": "localhost",
             "database": "fleet_db",
             "user": "postgres",
             "password": "12341234",
