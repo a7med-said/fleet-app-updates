@@ -1,7 +1,7 @@
 {
     "current_mode": "local",
     "databases": {
-        "cloud": {
+        "local": {
             "host": "localhost",
             "database": "fleet_db",
             "user": "postgres",
