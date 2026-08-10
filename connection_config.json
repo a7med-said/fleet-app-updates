@@ -2,17 +2,10 @@
     "current_mode": "local",
     "databases": {
         "local": {
-            "host": "localhost",
+            "host": "192.168.1.50",
             "database": "fleet_db",
             "user": "postgres",
             "password": "12341234",
-            "port": "5432"
-        },
-        "cloud": {
-            "host": "100.100.10.90",
-            "database": "esac_fleet_db",
-            "user": "postgres",
-            "password": "enc::gAAAAABqeX0mkM6h7_BU3aOVxcj0quw6aQ9XfVggdUZZscwhn6coaWcTa3IbvPaE7PHRfHT0QeyD2mKIW4T1pL3JuGjlvbs2aQ==",
             "port": "5432"
         }
     }
