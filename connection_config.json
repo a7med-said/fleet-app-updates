@@ -1,5 +1,5 @@
 {
-    "current_mode": "cloud",
+    "current_mode": "local",
     "databases": {
         "local": {
             "host": "100.100.10.90",
