@@ -1,11 +1,11 @@
 {
-    "current_mode": "cloud",
+    "current_mode": "local",
     "databases": {
-        "cloud": {
-            "host": "100.100.10.90",
-            "database": "esac_fleet_db",
+        "local": {
+            "host": "localhost",
+            "database": "fleet_db",
             "user": "postgres",
-            "password": "enc::gAAAAABqeY51ljN5QvpJN9IfgQPwLCaylKZJquExnmZjekBQkIjI_B9g35V4o5fPtk9ugZyYzk9GH0ZPHoaroz8OmYr5OzXTMw==",
+            "password": "enc::gAAAAABqeZA9K0uiQHJwHRbZgSxVw7D4di6SxU6zZarVGuL9yvC81dqDKx-tCkcZuzCW4e3nMppyvVxl39PYy7PcZdRvp6eQ6g==",
             "port": "5432"
         }
     }
