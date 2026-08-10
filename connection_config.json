@@ -2,10 +2,17 @@
     "current_mode": "local",
     "databases": {
         "local": {
-            "host": "100.100.10.90",
-            "database": "esac_fleet_db",
+            "host": "localhost",
+            "database": "fleet_db",
             "user": "postgres",
-            "password": "enc::gAAAAABqeY51ljN5QvpJN9IfgQPwLCaylKZJquExnmZjekBQkIjI_B9g35V4o5fPtk9ugZyYzk9GH0ZPHoaroz8OmYr5OzXTMw==",
+            "password": "enc::gAAAAABqeZdipUbrGt0vY5MrwxWI7sQgfts4XxIStKN0Y3vmiEjytJCwQg_Fl5WH-nmLG1GvFpb48SP1j9M6sOzI9rBVM4U8wQ==",
+            "port": "5432"
+        },
+        "cloud": {
+            "host": "aws-0-eu-central-1.pooler.supabase.com",
+            "database": "postgres",
+            "user": "postgres.your_project_id",
+            "password": "enc::gAAAAABqeZeT6frdkPNIqkfWOzdlpjV8peUpn4M8SKkwLfx2PWr50B9mMQaKhqm0N4h08caiS602Zs-D_N9rLAWDpSdrOgWdtA==",
             "port": "5432"
         }
     }
