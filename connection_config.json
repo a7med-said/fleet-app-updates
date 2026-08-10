@@ -1,5 +1,5 @@
 {
-    "current_mode": "",
+    "current_mode": "cloud",
     "databases": {
         "local": {
             "host": "localhost",
